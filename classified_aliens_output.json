@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "name": "Arcturian",
+        "universe": "Arcturian Universe",
+        "features": [
+            "icy breath",
+            "teleportation",
+            "blue glow"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Kryptonian",
+        "universe": "Kryptonian Universe",
+        "features": [
+            "super strength",
+            "flight",
+            "solar power"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Zorpian",
+        "universe": "Zorpian Universe",
+        "features": [
+            "acidic saliva",
+            "three legs",
+            "smells of sulfur"
+        ]
+    }
+]
