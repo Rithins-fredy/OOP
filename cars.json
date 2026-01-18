@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "type": "ELECTRIC",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 38
+    },
+    {
+        "id": 2,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 44
+    },
+    {
+        "id": 3,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 23
+    },
+    {
+        "id": 4,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 39
+    },
+    {
+        "id": 5,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 19
+    },
+    {
+        "id": 6,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 42
+    },
+    {
+        "id": 7,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": false,
+        "consumption": 20
+    },
+    {
+        "id": 8,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 49
+    },
+    {
+        "id": 9,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 41
+    },
+    {
+        "id": 10,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 21
+    },
+    {
+        "id": 11,
+        "type": "ELECTRIC",
+        "passengers": "PEOPLE",
+        "isDining": false,
+        "consumption": 12
+    },
+    {
+        "id": 12,
+        "type": "GAS",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 29
+    },
+    {
+        "id": 13,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 47
+    },
+    {
+        "id": 14,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 46
+    },
+    {
+        "id": 15,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": false,
+        "consumption": 36
+    },
+    {
+        "id": 16,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": false,
+        "consumption": 46
+    },
+    {
+        "id": 17,
+        "type": "ELECTRIC",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 17
+    },
+    {
+        "id": 18,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": true,
+        "consumption": 38
+    },
+    {
+        "id": 19,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 37
+    },
+    {
+        "id": 20,
+        "type": "ELECTRIC",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 19
+    },
+    {
+        "id": 21,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 48
+    },
+    {
+        "id": 22,
+        "type": "ELECTRIC",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 26
+    },
+    {
+        "id": 23,
+        "type": "GAS",
+        "passengers": "ROBOTS",
+        "isDining": true,
+        "consumption": 31
+    },
+    {
+        "id": 24,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": false,
+        "consumption": 39
+    },
+    {
+        "id": 25,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 30
+    },
+    {
+        "id": 26,
+        "type": "GAS",
+        "passengers": "PEOPLE",
+        "isDining": true,
+        "consumption": 32
+    },
+    {
+        "id": 27,
+        "type": "ELECTRIC",
+        "passengers": "PEOPLE",
+        "isDining": false,
+        "consumption": 40
+    },
+    {
+        "id": 28,
+        "type": "ELECTRIC",
+        "passengers": "ROBOTS",
+        "isDining": true,
+        "consumption": 21
+    },
+    {
+        "id": 29,
+        "type": "GAS",
+        "passengers": "ROBOTS",
+        "isDining": false,
+        "consumption": 22
+    },
+    {
+        "id": 30,
+        "type": "GAS",
+        "passengers": "ROBOTS",
+        "isDining": true,
+        "consumption": 41
+    }
+]
